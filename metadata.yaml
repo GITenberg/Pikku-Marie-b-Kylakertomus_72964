@@ -1,0 +1,46 @@
+_repo: Pikku-Marie-b-Kylakertomus_72964
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Suppanen, Adolf
+    - Aatto S.
+    - S., Aatto
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: https://fi.wikipedia.org/wiki/Aatto_Suppanen
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2024-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72964'
+language: fi
+pgterms:marc905: 20231009080023sand
+pgterms:marc906: '1889'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pikku Marie : $b Kyläkertomus'
+url: http://www.gutenberg.org/ebooks/72964
