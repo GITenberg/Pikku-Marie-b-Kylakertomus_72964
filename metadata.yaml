@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '6674'
     url: http://www.gutenberg.org/2009/agents/6674
     wikipedia: https://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sand, George
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72964#Pikku-Marie-b-Kylakertomus
 gutenberg_issued: '2024-02-15'
 gutenberg_type: Text
 identifiers:
